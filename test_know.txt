@@ -1,0 +1,11 @@
+Title: The APKS Verification Document
+Date: June 2026
+Secret Code: APKS-ALPHA-9922
+
+Information:
+The Agentic Personal Knowledge System (APKS) uses a multi-agent orchestration architecture to query personal data.
+The primary developer of this system is named Antigravity.
+The system features a hybrid retrieval layer combining BM25 keyword matching with dense vectors.
+The confidence threshold is set to 80% to trigger iterative refinement loops automatically.
+The knowledge graph uses NetworkX locally and Neo4j in production.
+This is a verification file to prove the ingestion and reasoning pipeline are operational.
